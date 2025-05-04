@@ -3,7 +3,7 @@
 ### Zis iz yo faborit codaa furomu autaa supeesu, Yasushiki!!!
 
 #### Mai interesutosu r:
-- 👨‍💻 Hacking/Information Security
+- 👨‍💻 Hacking/Cibersecurity
 - 🕵️‍♂️ Digital Investigation
 - 🎮 Game Development/Emulators
 - 👨‍🔬 Computation for Physics and Mathematics
@@ -12,7 +12,7 @@
 - 💻 My own Linux Distro or x86 OS (the easiest one)
 - 🔠 My own programming language (probably a Ruby-like language)
 - 🏴‍☠️ A torrent aplication
-- 🐛 A onion website
+- 🐛 An onion website
 
 ## Search eating cement.
 
